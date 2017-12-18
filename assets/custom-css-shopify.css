@@ -1,0 +1,7 @@
+.promo-block--header .promo-stuff {
+  display: block;
+  background-color: aliceblue;
+  float: left;
+  clear: left;
+}
+
